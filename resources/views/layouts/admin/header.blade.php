@@ -1,7 +1,7 @@
 <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
     <!-- Navbar Brand-->
     <a class="navbar-brand ps-3" href="{{ route('admin.index') }}">
-      <img src="{{ asset('raf-logo.png') }}" style="width:5rem;height: 3rem;">
+      <img src="{{ asset('raf-logo2.png') }}" style="width: 100%;height: 100%;padding-right: 1rem">
     </a>
     <!-- Sidebar Toggle-->
     <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>

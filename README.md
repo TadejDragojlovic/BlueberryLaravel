@@ -1,10 +1,10 @@
 # Getting started
 
-![User page example](screenshots/home.png "User home view")
-![Admin dashboard example](screenshots/admin.png "Admin dashboard")
-
 Mock blueberry shop/catalog website built using the laravel framework (ver. 12).
 Project built for "Programming web applications" class in college.
+
+![User page example](screenshots/home.png "User home view")
+![Admin dashboard example](screenshots/admin.png "Admin dashboard")
 
 ## Dependencies
 - xampp 8.2.12 (for mysql, php and apache)
